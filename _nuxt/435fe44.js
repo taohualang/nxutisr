@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{432:function(t,n,e){"use strict";e.r(n);var o={methods:{tnb:function(){this.$router.push({path:"/apost",query:{id:1}})}}},c=e(74),component=Object(c.a)(o,(function(){var t=this,n=t._self._c;return n("div",[n("button",{on:{click:t.tnb}},[t._v("跳转")])])}),[],!1,null,"baf3eeee",null);n.default=component.exports}}]);
